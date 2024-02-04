@@ -1,16 +1,13 @@
-# chat_app
 
-A new Flutter project.
+### Description of the project and its features ###
+This is a mobile application developed in Flutter (**with firebase**) for Android and IOS platforms, which allows users chat with friends.
 
-## Getting Started
+Here are some screenshots:
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/screenshot1.jpg" alt="Screenshot 1 Image" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/images/screenshot.jpg" alt="Screenshot Image" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## [Download the APK](https://drive.google.com/file/d/121p30hkDuNXutMpkvrM0zd7GIG2O3dAc/view?usp=sharing) ##
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
